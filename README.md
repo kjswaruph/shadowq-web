@@ -1,4 +1,4 @@
-# ShadowQ Web Application
+# ShadowQ Web
 
 Web application for ShadowQ discord bot built with Spring Boot and React.
 
@@ -31,7 +31,7 @@ cd shadowq-web
 ```properties
 spring.datasource.url=jdbc:postgresql://localhost:5432/shadowqweb-dev
 spring.datasource.username=your_username
-spring.datasource.password=your_password 
+spring.datasource.password=your_password
 ```
 
 3. Configure the database:
